@@ -1,5 +1,16 @@
 # Star Spin Up
 
+## Requirements 
+
+```
+numpy
+matplotlib
+scipy
+tqdm
+```
+
+## Running the Simulation
+
 Simulation of stars spinning up over the course of 15 Myr.
 
 To run, you need to calculate the Kroupa 2013 normalization constant.

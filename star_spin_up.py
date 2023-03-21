@@ -3,7 +3,6 @@ import multiprocessing
 import struct
 import pickle
 import numpy as np
-import matplotlib.pyplot as plt
 from scipy.stats import truncnorm
 import tqdm
 
