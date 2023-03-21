@@ -30,3 +30,5 @@ python3 star_spin_up.py
 Make sure to change `n_proc` in the file to the number of processes you want to use. The simulation will produce `stars.dat`, which can be analyzed with the jupyter notebook in the `notebooks` folder.
 
 Plots produced by the analysis should be in the notebooks folder.
+
+The simulation was run with 64 cores and took approximately 20 minutes for 1e6 stars, with 150 iterations each.
